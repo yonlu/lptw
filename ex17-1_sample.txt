@@ -1,0 +1,3 @@
+This is the file
+That I'm going to be copying
+into another file.
