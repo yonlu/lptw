@@ -560,3 +560,15 @@ JavaScript error: https://portal.medprocure.com/includes/jaxon/widgets/dialog/js
 1531244829464	Marionette	WARN	TLS certificate errors will be ignored for this session
 [Parent 3213, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531253723841	geckodriver	INFO	geckodriver 0.21.0
+1531253723850	geckodriver	INFO	Listening on 127.0.0.1:53421
+1531253724896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PEQetiIr1gap"
+1531253726540	Marionette	INFO	Listening on port 41161
+1531253726605	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531254120958	geckodriver	INFO	geckodriver 0.21.0
+1531254120963	geckodriver	INFO	Listening on 127.0.0.1:43215
+1531254122014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WtZOAGMkpLhJ"
+1531254123734	Marionette	INFO	Listening on port 35141
+1531254123825	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
