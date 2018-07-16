@@ -20,9 +20,9 @@ driver.implicitly_wait(10) #seconds
 customerButton = driver.find_element_by_id("cust-button")
 customerButton.click()
 
-driver.implicitly_wait(3) #seconds
+driver.implicitly_wait(8) #seconds
 
-formulary = driver.find_element_by_xpath("//table/tbody/tr/td[2]/table/tbody/tr[4]/td[5]")
+formulary = driver.find_element_by_xpath("//table/tbody/tr/td[2]/table/tbody/tr[4]/td[5]/a")
 print(formulary)
 formulary.click()
 
